@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "foody-afby",
+  "private_key_id": "e4470a54307147ec5a801f248ffefee2870a7180",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDFGPVMr5zKfEBb\nuZZ6UTXX/bSZeQ8/BHj+fW2E29pBLV+Wui9OtnXmlxbfbkhHxbGM8Yy4Mhb27vOL\nzKMAnniVrrhTFo6L/rSE3WqwRYgAnlYadPGAg/PXrY2kW5yeHj4rl9ZzVzZCzL4W\nPV9dbRCyIQ5ouITTsECoUQ9aphIAt164JYiQDwGImqKcYpLsE9QUCi7x8ftGZROw\nKZlZR3X93onaSPQzTWNvin6c//8EmJm2Mdpda60bBf9to+adCLm6oeGFt1w4KP6U\noQtmCv+NFdVRgrXnPgHdikkGl0ElGyK3Qk1ZoIx1MxuIxhGYPx7o/4cSKzOOVWe/\nIljGUDj/AgMBAAECggEAFKyNMRxhQOgO7tAlFZ17yAqHrWrXtjoniuI94P1tWQAu\nZ6a4nEliopZfQtPUPHBjMwU0nS7miRkAGOjqgX/IkZgrI3lZPcawyW2u6Ysm5zxf\nNxU52SDTggsQBsPJRi377XdWz5sVSPp68eWWzDugJbR2niDEu1kLNIc+1LkDaGmk\naRjaZ6NQwS5sEWBkio9zIuvqYgtmba+lNHv3jFGDInGNBZ9RSSn8vM3jQ+Vf1kL2\nvlFUu23RqfZT27pIaBkVXmirmaMh3RchE+iRywWJqTh1kMZarOASiUuxAJLGfnRA\n1ye7rxdPsWUFr8rKfd2Q52tTWQT5/7ti07LtL0MgsQKBgQDsggM7V7mnwC9sc7qm\nYi/EVOmhYRjxD9+8AjlCmNKPiRYTMpDRYIMTkOhFiD3kTk0v2kNq/NcY9la89a5I\nMZbjCukbZqlmXtFnGLlBZYg3vfFNP/O3EG8pFlfk1mAy3TwN1vPhwIaw4zLx47Om\nk3pmIrHvoZL1kZ0MPzqeyZxLqQKBgQDVV3EIeBxu9DTYJdVY7vw91fpobTecn/tS\nooMc4fU8tKLyDLBkvruLNo8N4NvvGu/T66TVqNrljtso639W9FU+6klQeAGHQ0cZ\nv38n5jHYU++b69M2+dw2iN+btApaV0+CroHt3ro+8y7Iun3xsPBpsJvEVqBY7CvX\ntEYVo9yIZwKBgQCb8hpJbc2n88wRWbnP7dwLO+YVF94HTW08Hcc9x2DHbh/VJrlg\npZ+oLhtJhc0xlgPFMsjTacY22m9VBzYUukYAjPgpriayroCq1x2IJneMMb1DL5D2\nu2pgkDACXuxtfX0UrxB+YaEuT5EO+BJEGuhRIj1rgYFSVOJV6fcwLkXViQKBgQCe\nh3KD45TlUewurbZidnvTizye+oF3jl3X4tDg1ntAF855ZLpyslR0Nx+IJY3omDCc\nXh9HcUjvif8K4ivmtnrd3ISMGhCwrWqZFHZtdJ2XbY/AYjW6RWLA12apsdh7lyOL\nLRd5Zacp/dTG7eWGgn+zWbv14pUWXrCZgekOTYwjgwKBgBaM3EV/sjUApMlBlRTs\nBfpcNifyrIERrMA8pj6aUl5GcgEfsi1FIMQ4vXQawwwhz+NRj412QqJvBMzHjJ/T\nr4VDjesQVD3MPXxZTDnzcU8hA5FsmkgNzozyIMDtox7kCHXMxT9JqR1RZW1G1nIa\n+iq4Y1nsPYosHOL49EMxi/If\n-----END PRIVATE KEY-----\n",
+  "client_email": "food-zone@foody-afby.iam.gserviceaccount.com",
+  "client_id": "102440353557765135632",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/food-zone%40foody-afby.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

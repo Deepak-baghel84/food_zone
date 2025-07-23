@@ -1,0 +1,4 @@
+WHATSAPP_TOKEN = os.getenv("EAAdIPWCpZA04BPEQg3OdXhBOKiyRfyzwuSVSovw039jDVYtxXQOWrItq7ciipy6cdcWfSF6EmRLkgvIopssyyAnOqmoJQHLrF6o2qF1gsGozP4YMjQmLUbxXqJvblmuxkK89NKhcskDHFbbPWPAoFiGZAvFyeAVzXiqpWS3CRIeQ4HEbgCgBJoLoJWXyDO1xdjIvDZBltoc7zS1pY8SOgXchTrbrDY9Gcw85qdkVoxajysZD")
+project_id = ""
+to = ""
+

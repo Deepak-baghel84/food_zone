@@ -1,0 +1,13 @@
+[project]
+name = "foody"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.115.13",
+    "pydantic>=2.0.0",
+    "uvicorn>=0.34.3",
+    "requests>=2.31.0",
+    "google-cloud-dialogflow>=2.23.0",
+]

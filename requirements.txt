@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+requests
+google-cloud-dialogflow
+pydantic
+python-dotenv   # if you use .env for your tokens
