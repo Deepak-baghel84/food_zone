@@ -2,6 +2,8 @@
 
 This project integrates WhatsApp Business API with Dialogflow for a food ordering chatbot.
 
+Note : Folder structure have possibly a problem will be update in 2-3 working days. 
+
 ## Features
 
 - WhatsApp webhook integration
